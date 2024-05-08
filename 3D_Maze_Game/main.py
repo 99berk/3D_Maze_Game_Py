@@ -1,10 +1,3 @@
-# Açıklama: 3D Labirent Oyunu
-# Yazarlar:
-# Berhan Berk Akgün, 21120205310
-# Samet Çandır, 20120205305
-# Ahmet Melih Gül, 20120205001
-# Tarih: 01.06.2023
-
 import pygame
 import math
 import sys
